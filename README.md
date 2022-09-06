@@ -72,7 +72,14 @@ Tracking my progress through the course.
 
 #### Section 15: Toggle Reminder
 
-- to be continued...
-  https://www.youtube.com/watch?v=qZXt1Aom3Cs&t=2169s
+- complete!
+
+#### Section 16: AddTask Component & v-model
+
+- complete!
+
+#### Section 17: Toggle Form & Template Conditionals
+
+- in progress...
 
 [Back To The Top](#vue-js-crash-course)
