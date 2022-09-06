@@ -94,4 +94,14 @@ Tracking my progress through the course.
 
 - complete!
 
+#### Section 21: Implementing the Router
+
+- complete!
+
+#### Section 22: Restrict a Component to a Route
+
+- complete!
+
+COURSE COMPLETE!
+
 [Back To The Top](#vue-js-crash-course)
