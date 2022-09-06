@@ -80,6 +80,18 @@ Tracking my progress through the course.
 
 #### Section 17: Toggle Form & Template Conditionals
 
-- in progress...
+- complete!
+
+#### Section 18: Building For Production
+
+- complete!
+
+#### Section 19: JSON-Server Setup
+
+- complete!
+
+#### Section 20: Refactoring to Use The Backend
+
+- complete!
 
 [Back To The Top](#vue-js-crash-course)
